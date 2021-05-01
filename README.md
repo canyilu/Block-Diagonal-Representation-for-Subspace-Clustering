@@ -22,6 +22,13 @@ that the affinity matrix <a href="https://www.codecogs.com/eqnedit.php?latex=\ma
 <img src="https://github.com/canyilu/Block-Diagonal-Representation-for-Subspace-Clustering/blob/main/fig_block_diagonal_matrix.JPG" width = '600'>
 </p>
 
+<p align="center"> 
+<img src="https://github.com/canyilu/Block-Diagonal-Representation-for-Subspace-Clustering/blob/main/figure_block_diagonal_example.JPG" width = '600'>
+</p>
+
+
+
+
 
 
 ## References

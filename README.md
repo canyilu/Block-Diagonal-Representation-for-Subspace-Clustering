@@ -2,6 +2,10 @@
 
 In our work [1], we present a unnified theory for the pursuit of the block diagonal matrix structure for subspace clustering (this part is extended from our former work [2]). We also propose the first k-block diagonal regularizer for a direct pursuit of the block diagonal matrix. We then apply it for subpace clustering and name this method as Block Diagonal Representation (BDR). 
 <p align="center"> 
+<img src="https://github.com/canyilu/BDR/blob/master/fig_block_diagonal_matrix.JPG">
+</p>
+
+<p align="center"> 
 <img src="https://github.com/canyilu/Block-Diagonal-Representation-for-Subspace-Clustering/blob/master/fig_block_diagonal_matrix.JPG">
 </p>
 
